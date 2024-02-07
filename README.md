@@ -1,3 +1,26 @@
+## rosidl_dds (rolling) - 0.11.1-1
+
+The packages in the `rosidl_dds` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rosidl_dds` on `Wed, 07 Feb 2024 13:31:41 -0000`
+
+The `rosidl_generator_dds_idl` package was released.
+
+Version of package(s) in repository `rosidl_dds`:
+
+- upstream repository: https://github.com/ros2/rosidl_dds.git
+- release repository: https://github.com/ros2-gbp/rosidl_dds-release.git
+- rosdistro version: `0.11.0-1`
+- old version: `0.11.0-1`
+- new version: `0.11.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_dds (rolling) - 0.11.0-1
 
 The packages in the `rosidl_dds` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling rosidl_dds` on `Fri, 28 Apr 2023 10:33:08 -0000`
